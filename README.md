@@ -1,4 +1,4 @@
-# RDKit Descriptor vs IBM's SMI-TED Foundation Model in predicting potential chloride transporter therapeutics
+# RDKit Descriptor vs IBM's SMI-TED Foundation Model in Predicting Potential Therapeutics for Cloride Transporter Disease
 
 # Motivation 
 Inspired by the paper “Development of Synthetic Chloride Transporters Using High-Throughput Screening and Machine Learning" by Chowdhury et al. in Digital Discovery (2025), where they obtain a 1500 compounds of potential therapeutics for cloride transporter disease (diseases linked to dysfunctional chloride transport, 
