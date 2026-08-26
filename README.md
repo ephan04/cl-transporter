@@ -144,7 +144,9 @@ Then read `README.md` (this file) for how this project extends it.
 | `src/features.py` | Computes RDKit descriptors and SMI-TED embeddings |
 | `src/models.py` | Trains RF and NN classifiers, runs cross-validation |
 | `src/metrics.py` | Computes CCR (correct classification rate) |
-| `example_run_ipynb` | Runs the full experiment from loading data to producing the final comparison figure|
+| `notebooks/example_run_ipynb` | Runs the full experiment from loading data to producing the final comparison figure|
+|`config.yaml`| All experiment settings is here: file paths, random seed, 
+undersampling splits, and model hyperparameters.
 
 ## To replicate this project
 ## Environment Setup
