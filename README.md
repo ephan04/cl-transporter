@@ -110,7 +110,7 @@ This suggests that model-feature compatibility is a critical factor in molecular
 768-dimensional learned representations and are better suited to neural networks capable of extracting nonlinear patterns from high-dimensional input. However, the improvement is modest (0.8311 vs 0.8232 at best), suggesting that for small imbalanced datasets like this one (~54 active compounds), foundation model embeddings may not provide a substantial advantage over well-chosen physicochemical descriptors
 
 These findings are consistent with recent literature showing that foundation model embeddings paired with appropriate neural architectures can outperform 
-traditional descriptor-based approaches such Green et al.'s paper "Descriptor-based Foundation Models for Molecular Property Prediction" in 2025.
+traditional descriptor-based approaches such Burns et al.'s paper "Descriptor-based Foundation Models for Molecular Property Prediction" in 2025.
 
 ### Limitations
 
