@@ -14,8 +14,7 @@ from foundation models such as SMI-TED capture richer molecular
 information than traditional cheminformatics descriptors, 
 potentially improving classification performance.
 # Research Question 
-Does IBM's SMI-TED foundation model improve on the Chowdhury et al.'s  
-RDKit descriptor approach for predicting chloride transport activity?
+Does IBM's SMI-TED foundation model improve on the Chowdhury et al.'s RDKit descriptor approach for predicting chloride transport activity?
 # Method 
 ## Data set 
 - Training set: 1348 compounds (54 active, 1294 inactive)
