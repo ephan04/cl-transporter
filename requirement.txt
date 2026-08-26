@@ -1,0 +1,26 @@
+# Core ML and chemistry
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.6.1
+rdkit==2024.03.5
+torch==2.3.1
+matplotlib==3.9.2
+xgboost==2.1.4
+pyyaml==6.0.2
+jupyterlab==4.3.0
+
+# SMI-TED foundation model
+transformers==4.55.2
+tokenizers==0.21.4
+safetensors==0.6.2
+huggingface_hub==0.34.4
+datasets==3.6.0
+selfies==2.2.0
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+
+# Supporting
+scipy==1.13.1
+joblib==1.5.2
+tqdm==4.67.1
+pyarrow==17.0.0
