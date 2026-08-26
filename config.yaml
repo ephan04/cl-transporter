@@ -1,0 +1,19 @@
+random_seed: 42
+
+paths:
+  data_dir: data/
+  results_dir: results/
+
+data:
+  train_file: training.csv
+  test_file: test.csv
+  smiles_col: "SMILES"
+  activity_col: "Activity (1 = active, 0 = inactive)"
+
+models: 
+  rf_n_estimator: 100
+  rf_max_depth: 10
+
+external:
+  fm4m_dir: "../materials/models"
+  fm4m_root: "../materials"
